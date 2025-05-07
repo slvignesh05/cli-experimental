@@ -37,7 +37,6 @@ For enhancements to the helm chart inflation generator feature, we will only sup
 We will not add support for:
 
 - private repository or registry authentication
-- OCI registries
 - other large features that increase the complexity of the feature and/or have significant security implications
 
 ### Future support
