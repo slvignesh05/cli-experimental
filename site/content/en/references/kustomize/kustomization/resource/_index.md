@@ -27,7 +27,7 @@ resources:
 - https://github.com/kubernetes-sigs/kustomize//examples/multibases/?timeout=120&ref=v3.3.1
 
 # Legacy hashicorp/go-getter format
-- github.com/kubernets-sigs/kustomize/examples/helloWorld?ref=test-branch
+- github.com/kubernetes-sigs/kustomize/examples/helloWorld?ref=test-branch
 ```
 
 Resources will be read and processed in depth-first order.
